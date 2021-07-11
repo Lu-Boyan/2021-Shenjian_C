@@ -1,0 +1,9 @@
+﻿  cmd_console_tools.cpp
+c1xx : fatal error C1083: 无法打开源文件: “C:\Users\Administrator.PC-20190814YQOJ\Desktop\cmd_console_tools.cpp”: No such file or directory
+  hanoi_main.cpp
+c1xx : fatal error C1083: 无法打开源文件: “C:\Users\Administrator.PC-20190814YQOJ\Desktop\hanoi_main.cpp”: No such file or directory
+  hanoi_menu.cpp
+c1xx : fatal error C1083: 无法打开源文件: “C:\Users\Administrator.PC-20190814YQOJ\Desktop\hanoi_menu.cpp”: No such file or directory
+  hanoi_multiple_solutions.cpp
+c1xx : fatal error C1083: 无法打开源文件: “C:\Users\Administrator.PC-20190814YQOJ\Desktop\hanoi_multiple_solutions.cpp”: No such file or directory
+  正在生成代码...
